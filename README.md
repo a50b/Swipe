@@ -1,2 +1,2 @@
 # Swipe
-Swipe is a front-end web design inspired by the homepage of Stripe
+Swipe is a front-end homepage inspired by Stripe
